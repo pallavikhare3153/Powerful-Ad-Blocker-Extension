@@ -1,0 +1,86 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #7b6d76;
+    width: 400px;
+    color: black; /* Default text color */
+    padding: 5px;
+}
+
+.popup-container {
+    background-color: rgb(255, 251, 193); /* Change the background color */
+    padding: 10px;
+    border-radius: 10px;
+    border: 2px solid rgb(0, 0, 0); /* Change box border to pink */
+    box-shadow: 0 0 15px rgba(20, 20, 20, 0.5);
+}
+
+h2 {
+    color: rgb(255, 110, 180); /* Heading color */
+    font-size: 22px; /* Change the font size of the heading */
+    margin: 0 0 10px; /* Add margin below the heading */
+}
+
+p {
+    margin: 0 0 10px; /* Add margin below paragraphs */
+    font-size: 15px; /* Increase font size for all paragraphs */
+}
+
+/* Specific styles for highlighted phrases */
+.highlight-green {
+    color: rgb(23, 100, 23); /* Color for 'Protects Privacy-' (Green) */
+    font-size: 15px; /* Font size */
+}
+
+.highlight-purple {
+    color: rgb(120, 0, 240); /* Color for 'Increases Productivity-' (Purple) */
+    font-size: 15px; /* Font size */
+}
+
+.highlight-orange {
+    color: rgb(255, 94, 0); /* Color for 'Eliminates Annoying Ads-' (Orange) */
+    font-size: 15px; /* Font size */
+}
+
+.highlight-brown {
+    color: rgb(187, 95, 49); /* Color for 'Enjoy Uninterrupted Browsing-' (Light Brown) */
+    font-size: 15px; /* Font size */
+}
+
+.highlight-blue {
+    color: rgb(3, 139, 251); /* Color for 'Enjoy Uninterrupted Browsing-' (Light Brown) */
+    font-size: 15px; /* Font size */
+}
+
+.highlight-pink {
+    color: rgb(255, 0, 170); /* Color for 'Tutorial link-' (pink) */
+    font-size: 15px; /* Font size */
+}
+
+
+.highlight-green {
+    color: rgb(28, 132, 42); /* Color for 'Web Store Link-' (green) */
+    font-size: 15px; /* Font size */
+}
+
+/* Styling clickable links */
+a {
+    color: blue; /* Blue color for links */
+    text-decoration: underline; /* Underline links */
+    font-size: 15px; /* Match font size with other text */
+}
+
+button {
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+}
+
+button:hover {
+    background-color: blue;
+}
