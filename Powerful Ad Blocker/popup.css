@@ -2,7 +2,7 @@ body {
     margin: 0;
     font-family: Arial, sans-serif;
     background-color: #7b6d76;
-    width: 450px;
+    width: 490px; /* Increased width */
     color: black; /* Default text color */
     padding: 5px;
 }
@@ -63,16 +63,23 @@ p {
     font-size: 18px; /* Font size */
 }
 
-.highlight-green {
-    color: rgb(28, 132, 42); /* Color for 'Web Store Link-' (green) */
-    font-size: 18px; /* Font size */
-}
-
 /* Styling clickable links */
 a {
     color: blue; /* Blue color for links */
     text-decoration: underline; /* Underline links */
     font-size: 18px; /* Match font size with other text */
+}
+
+.bold-large-link {
+    font-size: 18px; /* Set font size to 18px */
+    font-weight: bold; /* Make the text bold */
+    margin-left: 5px; /* Minimal space between heading and link */
+    vertical-align: middle; /* Align vertically to the middle of the line */
+}
+
+.inline-heading {
+    font-weight: bold; /* Make headings bold */
+    font-size: 18px; /* Font size for inline headings */
 }
 
 button {
