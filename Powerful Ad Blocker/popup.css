@@ -2,7 +2,7 @@ body {
     margin: 0;
     font-family: Arial, sans-serif;
     background-color: #7b6d76;
-    width: 400px;
+    width: 450px;
     color: black; /* Default text color */
     padding: 5px;
 }
@@ -17,57 +17,62 @@ body {
 
 h2 {
     color: rgb(255, 110, 180); /* Heading color */
-    font-size: 22px; /* Change the font size of the heading */
+    font-size: 26px; /* Increase font size of the heading */
     margin: 0 0 10px; /* Add margin below the heading */
+}
+
+h3 {
+    color: red; /* Heading color for 'How to Use' and 'Why to Use' */
+    font-size: 24px; /* Font size for the subheadings */
+    margin: 20px 0 10px; /* Margin for spacing */
 }
 
 p {
     margin: 0 0 10px; /* Add margin below paragraphs */
-    font-size: 15px; /* Increase font size for all paragraphs */
+    font-size: 18px; /* Increase font size for all paragraphs */
 }
 
 /* Specific styles for highlighted phrases */
 .highlight-green {
     color: rgb(23, 100, 23); /* Color for 'Protects Privacy-' (Green) */
-    font-size: 15px; /* Font size */
+    font-size: 18px; /* Font size */
 }
 
 .highlight-purple {
     color: rgb(120, 0, 240); /* Color for 'Increases Productivity-' (Purple) */
-    font-size: 15px; /* Font size */
+    font-size: 18px; /* Font size */
 }
 
 .highlight-orange {
     color: rgb(255, 94, 0); /* Color for 'Eliminates Annoying Ads-' (Orange) */
-    font-size: 15px; /* Font size */
+    font-size: 18px; /* Font size */
 }
 
 .highlight-brown {
     color: rgb(187, 95, 49); /* Color for 'Enjoy Uninterrupted Browsing-' (Light Brown) */
-    font-size: 15px; /* Font size */
+    font-size: 18px; /* Font size */
 }
 
 .highlight-blue {
     color: rgb(3, 139, 251); /* Color for 'Enjoy Uninterrupted Browsing-' (Light Brown) */
-    font-size: 15px; /* Font size */
+    font-size: 18px; /* Font size */
 }
 
 .highlight-pink {
     color: rgb(255, 0, 170); /* Color for 'Tutorial link-' (pink) */
-    font-size: 15px; /* Font size */
+    font-size: 18px; /* Font size */
 }
-
 
 .highlight-green {
     color: rgb(28, 132, 42); /* Color for 'Web Store Link-' (green) */
-    font-size: 15px; /* Font size */
+    font-size: 18px; /* Font size */
 }
 
 /* Styling clickable links */
 a {
     color: blue; /* Blue color for links */
     text-decoration: underline; /* Underline links */
-    font-size: 15px; /* Match font size with other text */
+    font-size: 18px; /* Match font size with other text */
 }
 
 button {
@@ -78,7 +83,7 @@ button {
     padding: 10px;
     cursor: pointer;
     width: 100%;
-    font-size: 18px;
+    font-size: 20px; /* Increase button font size */
 }
 
 button:hover {
