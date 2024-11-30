@@ -2,7 +2,7 @@ body {
     margin: 0;
     font-family: Arial, sans-serif;
     background-color: #7b6d76;
-    width: 490px; /* Increased width */
+    width: 484px; /* Increased width */
     color: black; /* Default text color */
     padding: 5px;
 }
@@ -16,14 +16,14 @@ body {
 }
 
 h2 {
-    color: rgb(255, 110, 180); /* Heading color */
+    color: rgb(255, 0, 123); /* Heading color */
     font-size: 26px; /* Increase font size of the heading */
     margin: 0 0 10px; /* Add margin below the heading */
 }
 
 h3 {
     color: red; /* Heading color for 'How to Use' and 'Why to Use' */
-    font-size: 24px; /* Font size for the subheadings */
+    font-size: 22px; /* Font size for the subheadings */
     margin: 20px 0 10px; /* Margin for spacing */
 }
 
@@ -59,7 +59,7 @@ p {
 }
 
 .highlight-pink {
-    color: rgb(255, 0, 170); /* Color for 'Tutorial link-' (pink) */
+    color: rgb(255, 68, 193); /* Color for 'Tutorial link-' (pink) */
     font-size: 18px; /* Font size */
 }
 
