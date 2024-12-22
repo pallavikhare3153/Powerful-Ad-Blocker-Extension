@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
     "name": "Powerful Ad Blocker",
-    "version": "2.0",
+    "version": "4.0",
     "description": "Choose this extension & enjoy safe, productive & fast web experience. Block ads in 1 click! Get it for free—Be Smart & Browse Best",
     "permissions": [
       "declarativeNetRequest"

@@ -63,6 +63,11 @@ p {
     font-size: 18px; /* Font size */
 }
 
+.highlight-purple {
+    color: rgb(160, 0, 253); /* Color for 'Tutorial link-' (pink) */
+    font-size: 18px; /* Font size */
+}
+
 /* Styling clickable links */
 a {
     color: blue; /* Blue color for links */
