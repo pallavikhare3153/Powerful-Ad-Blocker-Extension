@@ -12,8 +12,7 @@ Playlist: http://www.youtube.com/@PallaviKhare3153
 Reviews: https://chrome.google.com/webstore /detail/lmcnkcbaofhmiafapndakpplkenijdek
 
 
-
-Why Use This Extension?
+# Why Use This Extension?
 
 Protects Privacy - Blocks trackers & malicious ads from collecting your personal data.
 
