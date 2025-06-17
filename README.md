@@ -2,7 +2,7 @@
 This Powerful Ad Blocker Extension provides a secure browsing experience by blocking trackers and all types of malicious ads, preventing them from collecting your personal data through intrusive pop-ups, video ads, and banners. This extension enhances your web experience by ensuring faster, more productive, and enjoyable browsing.
 
 
-# How to Use This Extension?
+How to Use This Extension?
 
 GitHub: https://github.com/pallavikhare31
 
@@ -13,7 +13,7 @@ Playlist: http://www.youtube.com/@PallaviKhare3153
 Reviews: https://chrome.google.com/webstore /detail/lmcnkcbaofhmiafapndakpplkenijdek
 
 
-# Why Use This Extension?
+Why Use This Extension?
 
 Protects Privacy - Blocks trackers & malicious ads from collecting your personal data.
 
