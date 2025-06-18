@@ -4,6 +4,8 @@ This Powerful Ad Blocker Extension provides a secure browsing experience by bloc
 
 # How to Use This Extension? 
 
+Add This Extensionn: https://chrome.google.com/webstore /detail/lmcnkcbaofhmiafapndakpplkenijdek
+
 GitHub: https://github.com/pallavikhare31
 
 LinkedIn: linkedin.com/in/pallavi-khare
