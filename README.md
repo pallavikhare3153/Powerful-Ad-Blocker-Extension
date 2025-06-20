@@ -11,7 +11,7 @@ GitHub: https://github.com/pallavikhare31
 
 LinkedIn: linkedin.com/in/pallavi-khare31
 
-Playlist: http://www.youtube.com/@PallaviKhare3153
+Demonstration: http://www.youtube.com/@PallaviKhare3153
 
 Reviews:  https://chromewebstore.google.com/detail/powerful-ad-blocker/lmcnkcbaofhmiafapndakpplkenijdek
 
