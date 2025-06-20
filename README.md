@@ -4,7 +4,7 @@ This Powerful Ad Blocker Extension provides a secure browsing experience by bloc
 
 # How to Use This Extension? 
 
-Add This Extensionn: https://chromewebstore.google.com/detail/powerful-ad-blocker/lmcnkcbaofhmiafapndakpplkenijdek
+# Add This Extensionn: https://chromewebstore.google.com/detail/powerful-ad-blocker/lmcnkcbaofhmiafapndakpplkenijdek
 
 GitHub: https://github.com/pallavikhare31
 
