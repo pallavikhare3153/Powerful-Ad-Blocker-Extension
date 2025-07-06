@@ -7,7 +7,7 @@ This Powerful Ad Blocker Browser Extension provides a secure browsing experience
 
 Add This Extensionn: https://chromewebstore.google.com/detail/powerful-ad-blocker/lmcnkcbaofhmiafapndakpplkenijdek
 
-GitHub: https://github.com/pallavikhare31
+GitHub: https://github.com/pallavikhare3153
 
 LinkedIn: linkedin.com/in/pallavi-khare31
 
