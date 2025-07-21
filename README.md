@@ -10,7 +10,7 @@ Add This Extensionn: https://chromewebstore.google.com/detail/powerful-ad-blocke
 
 GitHub: https://github.com/pallavikhare3153
 
-LinkedIn: linkedin.com/in/pallavi-khare
+LinkedIn: linkedin.com/in/pallavikhare
 
 Demonstration: http://www.youtube.com/@PallaviKhare3153
 
